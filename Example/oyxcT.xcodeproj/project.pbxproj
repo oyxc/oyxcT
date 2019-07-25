@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		043238B322E9D82E001F7875 /* oyTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 043238B222E9D82E001F7875 /* oyTest.m */; };
 		35194C361661862521B2A6AF /* Pods_oyxcT_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FEAAF653A044AA461E9E054E /* Pods_oyxcT_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
@@ -38,8 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		043238B122E9D82E001F7875 /* oyTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = oyTest.h; sourceTree = "<group>"; };
-		043238B222E9D82E001F7875 /* oyTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = oyTest.m; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* oyxcT_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = oyxcT_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -148,8 +145,6 @@
 			children = (
 				6003F59C195388D20070C39A /* oyAppDelegate.h */,
 				6003F59D195388D20070C39A /* oyAppDelegate.m */,
-				043238B122E9D82E001F7875 /* oyTest.h */,
-				043238B222E9D82E001F7875 /* oyTest.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* oyViewController.h */,
 				6003F5A6195388D20070C39A /* oyViewController.m */,
@@ -371,7 +366,6 @@
 				6003F59E195388D20070C39A /* oyAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* oyViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
-				043238B322E9D82E001F7875 /* oyTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
