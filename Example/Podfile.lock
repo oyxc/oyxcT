@@ -1,0 +1,16 @@
+PODS:
+  - oyxcT (0.1.0)
+
+DEPENDENCIES:
+  - oyxcT (from `../`)
+
+EXTERNAL SOURCES:
+  oyxcT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  oyxcT: 460a66d7f48e3c41372a8b55b40fdb2af6b1fca5
+
+PODFILE CHECKSUM: e7d875cc22e3ee4d2e98eb5a6a6ee9f963adefa1
+
+COCOAPODS: 1.7.4
